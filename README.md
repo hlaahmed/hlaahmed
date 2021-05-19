@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hla Ahmed</h1>
-<h3 align="center">A dedicated software engineer form Egypt</h3>
+<h3 align="center">A software engineer form Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hlaahmed" /> </p>
 
